@@ -1,0 +1,11 @@
+C:\PROJEKTE\picture-ranker\picture-ranker\bin\Release\picture-ranker.exe.config
+C:\PROJEKTE\picture-ranker\picture-ranker\bin\Release\picture-ranker.exe
+C:\PROJEKTE\picture-ranker\picture-ranker\bin\Release\picture-ranker.pdb
+C:\PROJEKTE\picture-ranker\picture-ranker\obj\Release\picture-ranker.csproj.AssemblyReference.cache
+C:\PROJEKTE\picture-ranker\picture-ranker\obj\Release\picture-ranker.csproj.SuggestedBindingRedirects.cache
+C:\PROJEKTE\picture-ranker\picture-ranker\obj\Release\picture_ranker.Form1.resources
+C:\PROJEKTE\picture-ranker\picture-ranker\obj\Release\picture_ranker.Properties.Resources.resources
+C:\PROJEKTE\picture-ranker\picture-ranker\obj\Release\picture-ranker.csproj.GenerateResource.cache
+C:\PROJEKTE\picture-ranker\picture-ranker\obj\Release\picture-ranker.csproj.CoreCompileInputs.cache
+C:\PROJEKTE\picture-ranker\picture-ranker\obj\Release\picture-ranker.exe
+C:\PROJEKTE\picture-ranker\picture-ranker\obj\Release\picture-ranker.pdb
